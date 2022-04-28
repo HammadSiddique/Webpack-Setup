@@ -1,56 +1,63 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# WebPack Setup
 
-> Description the project.
+> In this project we setup a webpack boilerplate from scratch. Webpack is popular and one of the best module bundler. It is made primarily for JavaScript, but it can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML5, CSS3, JavaScript
+- Webpack
+- VS code
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- A web browser like Google Chrome, Mozilla FireFox, Safari etc..
+- A code editor like Visual Studio Code
+- Softwares git and node.js
+
 ### Setup
+
+Clone the repository using the link provided below
 
 ### Install
 
+``` 
+git clone git@github.com:mavericks-db/webpack-demo.git 
+```
+
+
 ### Usage
 
-### Run tests
+Kindly modify the files as needed
 
 ### Deployment
 
+To run webpack, run the following command 
 
+```
+npm run build
+```
+
+To start webpack server, run the following command
+```
+npm start
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Hammad Siddique**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [GitHub](https://github.com/HammadSiddique)
+- [Twitter](https://twitter.com/hs_devv)
+- [LinkedIn](https://www.linkedin.com/in/hammad-siddique-6a5469231/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
